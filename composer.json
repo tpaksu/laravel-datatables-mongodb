@@ -14,8 +14,8 @@
         }
     ],
     "require": {
-        "yajra/laravel-datatables-oracle": "^8.9|^9.6",
-        "jenssegers/mongodb" : "^3.4"
+        "yajra/laravel-datatables-oracle": "^9.0",
+        "jenssegers/mongodb" : "dev-develop"
     },
     "autoload": {
         "psr-4": {
